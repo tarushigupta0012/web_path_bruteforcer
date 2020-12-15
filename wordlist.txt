@@ -1,0 +1,7 @@
+admin
+info
+.git/config
+.htaccess
+backup.zip
+tarushigupta2
+vaibhav6
